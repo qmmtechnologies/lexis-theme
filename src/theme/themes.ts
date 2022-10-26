@@ -33,11 +33,11 @@ export const dark: SaleorThemeColors = {
   },
 
   active: {
-    1: "#F3630F",
-    2: "#ff833a",
-    3: "#ffa570",
-    4: "#f4b28c",
-    5: "#ffc8a8",
+    1: "#3D5CFF",
+    2: "#3d5cffa8",
+    3: "#3d5cff73",
+    4: "#3d5cff45",
+    5: "#3d5cff30",
   },
   main: {
     1: "#FAFAFA",
@@ -102,7 +102,7 @@ export const light: SaleorThemeColors = {
   },
   autofill: "#f4f6c5",
   background: {
-    default: "#FEF8F2",
+    default: "#3d5cff30",
     paper: "#FFFFFF",
   },
   checkbox: {
@@ -115,11 +115,11 @@ export const light: SaleorThemeColors = {
   },
 
   active: {
-    1: "#F3630F",
-    2: "#ff833a",
-    3: "#ffa570",
-    4: "#f4b28c",
-    5: "#ffc8a8",
+    1: "#3D5CFF",
+    2: "#3d5cffa8",
+    3: "#3d5cff73",
+    4: "#3d5cff45",
+    5: "#3d5cff30",
   },
   main: {
     1: "#28234A",
